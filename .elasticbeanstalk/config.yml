@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: blog-test-env2
+global:
+  application_name: blog-test2
+  default_ec2_keyname: null
+  default_platform: Ruby 2.2 (Passenger Standalone)
+  default_region: eu-central-1
+  profile: eb-cli
+  sc: git
